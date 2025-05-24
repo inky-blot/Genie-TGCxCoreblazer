@@ -8,7 +8,7 @@ Each caller makes a wish, which Gerald puts his own quirky spin on. You play thr
 # Gameplay Mechanics
 
 ## Wishes
-Each wish is its own level, for all intents and purposes. Wishes are played out in 2D sections where the player guides the caller and tries to complete the wish.
+Each wish is its own level, for all intents and purposes. Wishes are played out in 3D sections where the player guides the caller and tries to complete the wish.
 ### Traits
 Traits can be found at preset locations in the world or in the shop. Traits have a pre-programmed functionality that gets applied to the scene.
 
