@@ -1,9 +1,9 @@
 - [ ] Agree on a working title.
 
 # Pitch
-Gerald the Genie is excited that their lamp has been found. In that excitement though, it seems they are going overboard on every wish. Perhaps he can still win over his callers?
+Jinan the Genie is excited that their lamp has been found. In that excitement though, it seems they are going overboard on every wish. Perhaps he can still win over his callers?
 
-Each caller makes a wish, which Gerald puts his own quirky spin on. You play through these wishes as 2.5D QTE sequences. ~~To win over the caller, Gerald needs to use ideas he finds along the way to modify the level and make good on the wish~~. Between gameplay sections or at big gameplay beats, Gerald and the callers have a dialogue exploring their characters and why they made each wish.
+Each caller makes a wish, which Jinan puts his own quirky spin on. You play through these wishes as 2.5D QTE sequences. ~~To win over the caller, Jinan needs to use ideas he finds along the way to modify the level and make good on the wish~~. Between gameplay sections or at big gameplay beats, Jinan and callers have a dialogue exploring their characters and why they made each wish.
 
 # Gameplay Mechanics
 
