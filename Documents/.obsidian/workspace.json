@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acts/1. A Dream Wedding.md",
+                "file": "Acts/3. Another Drink.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. A Dream Wedding"
+              "title": "3. Another Drink"
             }
           },
           {
@@ -95,13 +95,18 @@
             "id": "c649cc0d8dfbfebc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Acts/4. No More Wishes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. No More Wishes"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -154,8 +159,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -246,16 +250,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f99c2ee5e235c89a",
+  "active": "c649cc0d8dfbfebc",
   "lastOpenFiles": [
+    "Characters/Daniya.md",
+    "Acts/4. No More Wishes.md",
     "Acts/3. Another Drink.md",
     "Acts/1. A Dream Wedding.md",
     "Characters/Jinan.md",
     "Genie Game.md",
     "Characters/Corey.md",
-    "Characters/Daniya.md",
     "Characters/Richard.md",
-    "Acts/4. Trying Too Hard.md",
     "Jam Information.md",
     "Market Inspirations.md",
     "Images/danganronpa thh.webp",
