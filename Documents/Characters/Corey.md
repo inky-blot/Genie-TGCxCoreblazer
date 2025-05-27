@@ -1,0 +1,22 @@
+> The second caller of the genie. A teenager struggling with self-esteem as he gets older. His wish is to find a sense of style that he feels comfortable in.
+
+| **Whimsy.** | Angst. | Contentment. | Pitiability. | Wisdom. |
+| ----------- | ------ | ------------ | ------------ | ------- |
+| ★★★         | ★★★★★  | ★            | ★★★★         | ★★★     |
+The above stats should be marked out of five stars.
+
+| Age. | Pronouns. | Gender. | Soc. Econ. Status |
+| ---- | --------- | ------- | ----------------- |
+| 15   | he/him    | boy     | middle class      |
+### Aesthetics
+A brief description of the character's aesthetics.
+### History
+A brief description of the character before finding the lamp.
+### Meets by
+A brief description of the character's circumstances when making the wish.
+### Motives
+A brief description of why they make the wish they did.
+### Affinities
+- List of likes.
+### Aversions
+- List of dislikes.

@@ -1,3 +1,0 @@
-![[beer.webp]]
-
-## Narrative Context
