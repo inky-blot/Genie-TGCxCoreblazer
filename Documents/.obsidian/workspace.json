@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acts/4. No More Wishes.md",
+                "file": "Acts/1. A Dream Wedding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. No More Wishes"
+              "title": "1. A Dream Wedding"
             }
           }
         ],
@@ -252,9 +252,9 @@
   },
   "active": "c649cc0d8dfbfebc",
   "lastOpenFiles": [
-    "Characters/Daniya.md",
-    "Acts/4. No More Wishes.md",
     "Acts/3. Another Drink.md",
+    "Acts/4. No More Wishes.md",
+    "Characters/Daniya.md",
     "Acts/1. A Dream Wedding.md",
     "Characters/Jinan.md",
     "Genie Game.md",
