@@ -1,4 +1,4 @@
-> The second caller of the genie. A teenager struggling with self-esteem as he gets older. His wish is to find a sense of style that he feels comfortable in.
+> The second caller of the genie. A teenager struggling with self-esteem as he gets older. His wish is to be stylish. [[2. A Fresh Fit]]
 
 | **Whimsy.** | Angst. | Contentment. | Pitiability. | Wisdom. |
 | ----------- | ------ | ------------ | ------------ | ------- |
