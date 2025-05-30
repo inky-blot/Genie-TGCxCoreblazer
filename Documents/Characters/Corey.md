@@ -9,14 +9,19 @@ The above stats should be marked out of five stars.
 | ---- | --------- | ------- | ----------------- |
 | 15   | he/him    | boy     | middle class      |
 ### Aesthetics
-A brief description of the character's aesthetics.
+Moody teenager.
+Somewhat disheveled or underdressed.
 ### History
-A brief description of the character before finding the lamp.
+Corey works part-time at the antiques store after school. His home life is pretty rough, as despite his loving mother, his father is a raging alcoholic who can't be trusted to keep up his responsibilities.
 ### Meets by
-A brief description of the character's circumstances when making the wish.
+Finds the lamp during his shift while cleaning the antique shop.
 ### Motives
-A brief description of why they make the wish they did.
+Corey isn't particularly popular; they aren't bullied or anything, but they are definitely not the first invite for parties. Being a teenager, he's sensitive to that kind of thing.
 ### Affinities
-- List of likes.
+- Doom-scrolling.
+- Fashion, when he can afford it.
+- Pottery, for some reason.
 ### Aversions
-- List of dislikes.
+- Dealing with customers.
+- Talking to his dad.
+- Floral perfumes.

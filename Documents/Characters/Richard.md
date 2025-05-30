@@ -9,14 +9,18 @@ The above stats should be marked out of five stars.
 | ---- | --------- | ------- | ----------------- |
 | 48   | he/him    | man     | middle class      |
 ### Aesthetics
-A brief description of the character's aesthetics.
+Noir detective meets stained white tank.
 ### History
-A brief description of the character before finding the lamp.
+Richard was once a good father and husband. But after starting a new job that grew more and more stressful and oppressive, Richard got worse and worse at home. Now, he spends most of his time at bars to stumbling around town after work.
 ### Meets by
-A brief description of the character's circumstances when making the wish.
+Richard shows up drunk and late to pick up Corey and accidently rubs the lamp.
 ### Motives
-A brief description of why they make the wish they did.
+Beer.
 ### Affinities
-- List of likes.
+- Beer.
+- Driving.
+- 2000s music.
 ### Aversions
-- List of dislikes.
+- Dealing with his family issues.
+- Getting kicked out of bars.
+- Traffic cops.
